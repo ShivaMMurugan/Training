@@ -38,3 +38,12 @@ elif user == 'b':
 	print("b is also valid")
 else:
 	print("you have entered wrong choice")
+
+x = 10
+
+if not x:
+	print("Something")
+
+else:
+	print("It's valid")
+
