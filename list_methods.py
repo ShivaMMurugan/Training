@@ -34,3 +34,4 @@ names = ["Arvind", "Bala", "Shiva", "Dinesh"] # Mutable
   # * can pass an index value to remove the particular field
 # names.pop()
 # print(names)
+# print(dir(names))
