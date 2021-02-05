@@ -24,3 +24,11 @@ d = {"name": "Surya", "age": 22, "college": "some college"}
 #update a dictionary
 # d.update(name="Dhanush", age=20, college="Dgvc", dept="cs")
 # print(d)
+
+# pop
+# d.pop("name")
+# print(d)
+
+# del d["name"]
+# print(d)
+# print(dir(d))
