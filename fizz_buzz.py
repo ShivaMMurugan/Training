@@ -16,6 +16,19 @@ fizzbuzz(51)
 
 # Task
 
+
+def combo(k, v):
+...     combinations = []
+...     for i in k:
+...             for j in v:
+...                     combinations.append([i, j])
+...     return combinations
+... 
+>>> combo(["vanniala", "chocolate"], ["chocolate_sauce"])
+[['vanniala', 'chocolate_sauce'], ['chocolate', 'chocolate_sauce']]
+>>> 
+
+
 # two parameters
 input
 ["vanniala", "chocolate"], ["chocolate_sauce"]
