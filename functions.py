@@ -5,10 +5,8 @@
 
 # add() # calling a function
 
-# def mul(): #Initialize a function
-# 	x = 10
-# 	y = 20
-# 	print(x * y)
+def mul(x, y): #Initialize a function
+	print(x * y)
 
 # mul() 
 
