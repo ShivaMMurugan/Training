@@ -32,3 +32,10 @@ d = {"name": "Surya", "age": 22, "college": "some college"}
 # del d["name"]
 # print(d)
 # print(dir(d))
+
+# k = ["name", "age", "college"]
+# if k[0] in d:
+#   d.update("college"="velammal", "age"=25, "name"="Muthu")
+#   print(d)
+#  else:
+#   print("Invalid)
